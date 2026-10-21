@@ -1,0 +1,2 @@
+https://github.com/SergioBoySV/Bible-Datasets/blob/main/niv/entire_niv.csv
+https://github.com/sabdacode/ayt/tree/main/csv
