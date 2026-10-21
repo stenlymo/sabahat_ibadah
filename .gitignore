@@ -1,0 +1,26 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local application data and user backups
+SahabatIbadahData/
+SahabatIbadahCache/
+.sahabat-ibadah-cache/
+*.db
+*.db-*
+backups/
+
+# Build artifacts and packaged application
+build/
+dist/
+output/
+*.exe
+*.zip
+
+# Local Bible datasets (download/import them separately)
+ayt.csv
+entire_*.csv
+
+# Personal/example video source in this workspace
+background.mp4
