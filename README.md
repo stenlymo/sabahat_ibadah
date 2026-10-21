@@ -2,6 +2,8 @@
 
 Sahabat Ibadah adalah aplikasi desktop Windows untuk menyiapkan susunan ibadah, mengelola lagu dan ayat Alkitab, serta menampilkan kamera atau materi ibadah ke proyektor dan aplikasi rapat daring. Data aplikasi disimpan secara lokal.
 
+Ingin melaporkan masalah atau ikut mengembangkan aplikasi? Mulai dari [Panduan Berpartisipasi](CONTRIBUTING.md).
+
 ## Daftar isi
 
 - [Menjalankan aplikasi](#menjalankan-aplikasi)
